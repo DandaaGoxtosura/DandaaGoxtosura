@@ -55,8 +55,5 @@ Jogo desenvolvido em C utilizando Raylib durante a disciplina de Programação I
 💼 LinkedIn:
 www.linkedin.com/in/dandara-resende
 
-🌐 Portfólio:
-https://dandaagoxtosura.github.io/Portifolio/
-
 📧 Email:
 dmsrb@cesar.school
