@@ -1,4 +1,4 @@
-#☺️ Prazer, eu sou a Danda! 
+# ☺️ Prazer, eu sou a Danda! 
 
 🎓 Estudante de Ciência da Computação na CESAR School (3º período)
 
