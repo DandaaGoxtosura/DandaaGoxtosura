@@ -1,6 +1,6 @@
 # ☺️ Oie, eu sou a Danda! 
 
-🎓 Estudante de Ciência da Computação na CESAR School (3º período)
+### 🎓 Estudante de Ciência da Computação na CESAR School (3º período)
 
 Sou apaixonada por criar soluções através da tecnologia e acredito que os melhores aprendizados acontecem colocando a mão na massa. Durante a graduação, participei do desenvolvimento de aplicações web, jogos e projetos voltados para impacto social, sempre trabalhando em equipe e buscando evoluir tecnicamente.
 
@@ -8,7 +8,7 @@ Atualmente, tenho maior interesse em **Desenvolvimento Web**, especialmente **Fr
 
 ---
 
-## 🚀 Tecnologias
+## 🖥️ Tecnologias
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,15 +31,15 @@ Git • GitHub • Figma • Canva
 
 ---
 
-# 🌟 Projetos em Destaque
+# ✨ Projetos em Destaque ✨
 
-## 🏘️ Laço Favela
+## ♾️ Laço Favela
 Protótipo desenvolvido para atender às necessidades reais da ONG G10 Favelas durante a disciplina de Projetos 2.
 
 ## ♻️ Descarte Certo
 Aplicação web desenvolvida para incentivar o descarte consciente de resíduos.
 
-## 🎮 Vai Catar Coquinho
+## 🦀 Vai Catar Coquinho
 Jogo desenvolvido em C utilizando Raylib durante a disciplina de Programação Imperativa e Funcional.
 
 ---
@@ -50,7 +50,7 @@ Jogo desenvolvido em C utilizando Raylib durante a disciplina de Programação I
 
 ---
 
-# 📫 Vamos nos conectar?
+# 💌 Vamos nos conectar?
 
 💼 LinkedIn:
 www.linkedin.com/in/dandara-resende
