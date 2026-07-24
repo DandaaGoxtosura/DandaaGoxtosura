@@ -1,6 +1,6 @@
 # ☺️ Oie, eu sou a Danda! 
 
-### 🎓 Estudante de Ciência da Computação na CESAR School (3º período)
+### 👩🏽‍🎓 Estudante de Ciência da Computação na CESAR School (3º período)
 
 Sou apaixonada por criar soluções através da tecnologia e acredito que os melhores aprendizados acontecem colocando a mão na massa. Durante a graduação, participei do desenvolvimento de aplicações web, jogos e projetos voltados para impacto social, sempre trabalhando em equipe e buscando evoluir tecnicamente.
 
